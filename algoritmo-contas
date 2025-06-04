@@ -2,23 +2,13 @@
 
 Passo a passo: identificar a entrada de dados 
                identificar a saida de dados
-               processamento
+               identificar o processamento
 
-refinamento: leia os valores de [a] e [b]
+1.leia os valores 'a' e 'b' ;
+2. o resultado é a subtração de 'a'- 'b' ;
+3. mostre o resultado da subtração ;
 
-02-Multiplicação de axb
-
-Passo a passo: identificar a entradas de dados 
-               identificar a saida de dados
-               processamento
-
-refinamento: leia os valores de [a] e [b]
-
-03-Divisão de a/b
-
-Passo a passo: identificar a entrada de dados 
-               identificar a saida de dados
-               processamento
-
-refinamento: leia os valores de [a] e [b]
-
+refinamento: 
+1.leia os valores de [a] e [b] ;
+2.[o resultado]= [a]-[b]
+3.Mostre [resultado]
