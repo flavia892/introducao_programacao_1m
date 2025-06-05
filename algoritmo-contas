@@ -1,4 +1,21 @@
-01-Subtração de a-b
+01- Adição de a+b
+
+Passo a passo: identificar a entrada de dados 
+               identificar a saida de dados
+               identificar o processamento
+
+1.leia os valores 'a' e 'b' ;
+2. o resultado é a adição de 'a'+ 'b' ;
+3. mostre o resultado da adição ;
+
+refinamento: 
+1.leia os valores de [a] e [b] ;
+2.[o resultado]= [a]+[b]
+3.Mostre [resultado]
+
+
+
+02-Subtração de a-b
 
 Passo a passo: identificar a entrada de dados 
                identificar a saida de dados
@@ -12,3 +29,34 @@ refinamento:
 1.leia os valores de [a] e [b] ;
 2.[o resultado]= [a]-[b]
 3.Mostre [resultado]
+
+03-Multiplicação de axb
+
+Passo a passo: identificar a entrada de dados 
+               identificar a saida de dados
+               identificar o processamento
+
+1.leia os valores 'a' x 'b' ;
+2. o resultado é a multiplicação de 'a'x 'b' ;
+3. mostre o resultado da multiplicação ;
+
+refinamento: 
+1.leia os valores de [a] e [b] ;
+2.[o resultado]= [a]x[b]
+3.Mostre [resultado]
+
+04-Divisão de a/b
+
+Passo a passo: identificar a entrada de dados 
+               identificar a saida de dados
+               identificar o processamento
+
+1.leia os valores 'a' e 'b' ;
+2. o resultado é a divisão de 'a'/ 'b' ;
+3. mostre o resultado da divisão ;
+
+refinamento: 
+1.leia os valores de [a] e [b] ;
+2.[o resultado]= [a]/[b]
+3.Mostre [resultado]
+
